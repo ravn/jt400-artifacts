@@ -18,5 +18,6 @@
 		<module>5.0</module>
 		<module>6.7</module>
 		<module>7.8</module>
+		<module>7.9</module>
 	</modules>
 </project>
